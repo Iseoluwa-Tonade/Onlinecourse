@@ -29,7 +29,6 @@ These instructions will get you a copy of the project up and running on your loc
     ```bash
     pip install -r requirements.txt
     ```
-    *(Note: A `requirements.txt` file will be added in a future commit.)*
 
 4.  **Apply database migrations:**
     ```bash
